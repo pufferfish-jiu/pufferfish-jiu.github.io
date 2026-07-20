@@ -17,8 +17,6 @@ When I got the task of populating the catchable species for the fishing and catc
 
 Based on the data that I collected, then I determined the capture difficult of each species by configuring the data tables for fishing and the blueprints of insects and ocean critters, which were well-implemented by the programmers, giving me the tools I needed to achieve the design.
 
-[video here - fishing and catching separate]
-
 ---
 ###### Dynamic Dialogue
 I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
@@ -60,7 +58,7 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 
 <iframe src="https://drive.google.com/file/d/17uPTXxugy9Q-St6JhqpzQoeZ0GtXbLT5/preview" width="560" height="315" allow="autoplay" allowfullscreen></iframe>
 
-- *The Last Giant* (main quest) [WIP flowchart]
+- *The Last Giant* (main quest)
 	To get `The Last Giant` quest, player must complete `The petrified perpetrator` quest. This main quest will automatically trigger once the cutscene tied to `The petrified perpetrator` quest trigger, it tells about `The Last Giant` that they haven't found yet.
 	
 	Each quest step below are tied to the cutscene, if player accomplished the step they will witness a cutscene telling a tale. 
