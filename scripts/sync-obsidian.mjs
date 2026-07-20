@@ -6,9 +6,31 @@ import { fileURLToPath } from "url"
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const repoRoot = path.resolve(__dirname, "..")
 
-const vaultDir = process.env.OBSIDIAN_VAULT || "C:\\Users\\Adjie\\Documents\\Obsidian\\Portfolio"
 const contentDir = path.join(repoRoot, "content")
 const ignoreFile = path.join(repoRoot, ".syncignore")
+const vaultPathFile = path.join(repoRoot, ".obsidian-vault-path")
+
+// Vault location is per-machine, so it never lives in tracked source.
+// Order: OBSIDIAN_VAULT env var, then the untracked .obsidian-vault-path file.
+function resolveVaultDir() {
+  if (process.env.OBSIDIAN_VAULT) return process.env.OBSIDIAN_VAULT.trim()
+  if (fs.existsSync(vaultPathFile)) {
+    const fromFile = fs
+      .readFileSync(vaultPathFile, "utf8")
+      .split("\n")
+      .map((line) => line.trim())
+      .find((line) => line && !line.startsWith("#"))
+    if (fromFile) return fromFile
+  }
+  console.error(
+    "No Obsidian vault configured.\n" +
+      "Set the OBSIDIAN_VAULT environment variable, or write the vault's absolute path\n" +
+      `into ${vaultPathFile} (one line, untracked).`,
+  )
+  process.exit(1)
+}
+
+const vaultDir = resolveVaultDir()
 
 function loadIgnorePatterns() {
   if (!fs.existsSync(ignoreFile)) return []

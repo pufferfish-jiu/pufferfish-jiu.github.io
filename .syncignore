@@ -1,7 +1,13 @@
 # Files/folders to skip when syncing from Obsidian vault into content/
 # Gitignore-style glob patterns.
 Notes Feedback--.md
+About Me.md
 .obsidian/**
 .obsidian
 private/**
 templates/**
+
+# Vault is its own git repo; never copy VCS metadata or trash into content/
+.git/**
+.gitignore
+.trash/**

@@ -11,3 +11,6 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# Per-machine Obsidian vault location used by scripts/sync-obsidian.mjs
+.obsidian-vault-path
