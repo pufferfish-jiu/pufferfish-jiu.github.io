@@ -19,6 +19,8 @@ Based on the data that I collected, then I determined the capture difficult of e
 
 <iframe src="https://drive.google.com/file/d/1f8OLlrZBQBwpYr0Cm8-CblswsBloCBHt/preview" width="560" height="315" allow="autoplay" allowfullscreen></iframe>
 
+I also designed the bamboo net and insect trap as passive resource-gathering tools to help reducing gameplay repetitive. 
+
 ---
 ###### Dynamic Dialogue
 I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
