@@ -18,6 +18,7 @@ When I got the task of populating the catchable species for the fishing and catc
 Based on the data that I collected, then I determined the capture difficult of each species by configuring the data tables for fishing and the blueprints of insects and ocean critters, which were well-implemented by the programmers, giving me the tools I needed to achieve the design.
 
 <iframe src="https://drive.google.com/file/d/1f8OLlrZBQBwpYr0Cm8-CblswsBloCBHt/preview" width="560" height="315" allow="autoplay" allowfullscreen></iframe>
+
 ---
 ###### Dynamic Dialogue
 I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
