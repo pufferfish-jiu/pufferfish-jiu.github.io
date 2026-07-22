@@ -17,6 +17,7 @@ When I got the task of populating the catchable species for the fishing and catc
 
 Based on the data that I collected, then I determined the capture difficult of each species by configuring the data tables for fishing and the blueprints of insects and ocean critters, which were well-implemented by the programmers, giving me the tools I needed to achieve the design.
 
+<iframe src="https://drive.google.com/file/d/1f8OLlrZBQBwpYr0Cm8-CblswsBloCBHt/preview" width="560" height="315" allow="autoplay" allowfullscreen></iframe>
 ---
 ###### Dynamic Dialogue
 I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
@@ -24,6 +25,7 @@ I also contributing for Coral Island's dynamic dialogue. Player can witness the 
 My main part are to set up the logics and rules for when this dynamic dialogue should or shouldn't appear, as well as the priority queue for which dynamic dialogue takes precedence if player are able to trigger multiple dynamic dialogue simultaneously. I'm also the one who maintaining the feature and resolving any issues that arise.
 
 Even though I was the one who maintaining this feature, it wouldn't have been possible without the collaborative effort by the writers, programmers, and assistant project managers.
+
 <iframe src="https://drive.google.com/file/d/1P4lg-1hbv7CzTkSWHEOe1xJmm7dNdO2b/preview" width="560" height="315" allow="autoplay" allowfullscreen></iframe>
 
 - ***Day before harvest festival***
@@ -83,7 +85,7 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 
 - *Nina Summer/Winter* (invisible tracking quest)
 	In Year 1, player will get a one-time cutscenes introducing NPC dateable name Nina. These are set up to fire first thing in the morning, before any other cutscene can trigger.
-	- **Summer 1st** -> Nina arrives at starlet town for the summer. This cutscene officially introduces her, unlocking her character portrait in the UI and replacing her grayed-out silhouette. *(Shoutout to the amazing programmers!)*
+	- **Summer 1st** -> Nina arrives at starlet town for the summer. This cutscene officially introduces her, unlocking her character portrait in the UI and replacing her grayed-out silhouette.
 	- **Winter 1st** -> Nina returns to the starlet town permanently after absent during the fall in year 1. This cutscene reveals she is moving to town, for good.
 
 	For multiplayer, this invisible tracking quest is count as shared progress.
