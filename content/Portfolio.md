@@ -14,7 +14,7 @@ I'm the game designer of Coral Island. My duty includes:
 ---
 ###### Dynamic Dialogue
 
-![[DD-Banner 1.png]]
+![[DD-Banner.png]]
 
 I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
 
