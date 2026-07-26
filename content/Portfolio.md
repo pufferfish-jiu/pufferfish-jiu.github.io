@@ -1,4 +1,4 @@
-### Coral Island
+# Coral Island
 
 ![[CoralIsland_1-3Update-Banner.png]]
 
@@ -12,24 +12,9 @@ I'm the game designer of Coral Island. My duty includes:
  - Collaborating closely with producer, programmers, writers, animators, artists, etc
 
 ---
-###### Fishing & Catching Minigame
-
-![[FishingCatching-Banner.png]]
-
-Fishing and catching minigame are one of my contribution to Coral Island. Player can obtain fish through fishing, and insects alongside ocean critter through catching minigame. All creature caught by player can be donated to museum, offering for temple, and sold for profit.
-
-When I got the task of populating the catchable species for the fishing and catching minigames, I wanted to make sure the spawning for all species was reflected as authentically as possible, matching their real-life behavior so players wouldn't feel it was out of sync with the environment. 
-
-Based on the data that I collected, then I determined the capture difficult of each species by configuring the data tables for fishing and the blueprints of insects and ocean critters, which were well-implemented by the programmers, giving me the tools I needed to achieve the design.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1ZB7prOldME" allow="autoplay" allowfullscreen></iframe>
-
-I also designed the bamboo net and insect trap as passive resource-gathering tools to help reducing gameplay repetitive. 
-
----
 ###### Dynamic Dialogue
 
-![[DD-Banner.png]]
+![[DD-Banner 1.png]]
 
 I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
 
@@ -111,3 +96,20 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 	- In the video, Emily request for Chard during spring season, which matches the plant's growing season.
 
 	For multiplayer, this errand quest is count as individual progress.
+
+---
+###### Fishing & Catching Minigame
+
+![[FishingCatching-Banner.png]]
+
+Fishing and catching minigame are one of my contribution to Coral Island. Player can obtain fish through fishing, and insects alongside ocean critter through catching minigame. All creature caught by player can be donated to museum, offering for temple, and sold for profit.
+
+When I got the task of populating the catchable species for the fishing and catching minigames, I wanted to make sure the spawning for all species was reflected as authentically as possible, matching their real-life behavior so players wouldn't feel it was out of sync with the environment. 
+
+Based on the data that I collected, then I determined the capture difficult of each species by configuring the data tables for fishing and the blueprints of insects and ocean critters, which were well-implemented by the programmers, giving me the tools I needed to achieve the design.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ZB7prOldME" allow="autoplay" allowfullscreen></iframe>
+
+I also designed the bamboo net and insect trap as passive resource-gathering tools to help reducing gameplay repetitive. 
+
+---
