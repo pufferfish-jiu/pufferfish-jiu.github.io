@@ -14,6 +14,8 @@ I'm the game designer of Coral Island. My duty includes:
 ---
 ###### Fishing & Catching Minigame
 
+![[FishingCatching-Banner.png]]
+
 Fishing and catching minigame are one of my contribution to Coral Island. Player can obtain fish through fishing, and insects alongside ocean critter through catching minigame. All creature caught by player can be donated to museum, offering for temple, and sold for profit.
 
 When I got the task of populating the catchable species for the fishing and catching minigames, I wanted to make sure the spawning for all species was reflected as authentically as possible, matching their real-life behavior so players wouldn't feel it was out of sync with the environment. 
@@ -26,6 +28,8 @@ I also designed the bamboo net and insect trap as passive resource-gathering too
 
 ---
 ###### Dynamic Dialogue
+
+![[DD-Banner.png]]
 
 I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
 
@@ -55,6 +59,8 @@ Even though I was the one who maintaining this feature, it wouldn't have been po
 
 ---
 ###### Quest
+
+![[Quest-Banner.png]]
 
 I also took part in quest system, covering on Main quest, Side quest, Invisible tracking quest, and errand quest.
 
