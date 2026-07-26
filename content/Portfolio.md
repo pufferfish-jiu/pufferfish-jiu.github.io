@@ -1,6 +1,6 @@
 ### Coral Island
 
-![[491ae5_33d5c4960dbb4dd5b790028df179b98f~mv2.png]]
+![[CoralIsland_1-3Update-Banner.png]]
 
 I'm the game designer of Coral Island. My duty includes:
  - Owning features and subsystems from initial design through implementation and iteration.
