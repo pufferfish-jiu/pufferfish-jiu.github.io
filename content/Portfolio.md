@@ -22,22 +22,22 @@ My main part are to set up the logics and rules for when this dynamic dialogue s
 
 Even though I was the one who maintaining this feature, it wouldn't have been possible without the collaborative effort by the writers, programmers, and assistant project managers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e0oRWe8RAFQ" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/e0oRWe8RAFQ" allow="autoplay" allowfullscreen></iframe>
 
 - ***Day before harvest festival***
 	Before the festival day, NPC will acknowledge and reveal their excitement for the upcoming harvest festival.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ey3s2qzSnKI" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Ey3s2qzSnKI" allow="autoplay" allowfullscreen></iframe>
 
 - ***Day after tree planting, but didn't attend***
 	After tree planting festival date has passed but player didn't attend, NPC will express their disappointment about the event cancellation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cb5zw58lUfc" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Cb5zw58lUfc" allow="autoplay" allowfullscreen></iframe>
 
 - ***Aaliyah back from space*** 
 	Aaliyah's related family and space enthusiast are expressing their joy about her return from the space.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xX5XU_DQTQI" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/xX5XU_DQTQI" allow="autoplay" allowfullscreen></iframe>
 
 - ***Appearance shark costume***
 	NPC commenting on shark outfit if player wear it.
@@ -57,7 +57,7 @@ I also determined the rewards for each quest, such as mail, items, or unlocks, t
 
 As Coral Island expanded into multiplayer, I audited the existing single-player quest systems and redesigned them for multiplayer compatibility. I determined whether each quest's progression should be shared or tracked individually per player, then documented and implemented the logic accordingly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3_RVcfU2aQ0" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/3_RVcfU2aQ0" allow="autoplay" allowfullscreen></iframe>
 
 - *The Last Giant* (main quest)
 	To get `The Last Giant` quest, player must complete `The petrified perpetrator` quest. This main quest will automatically trigger once the cutscene tied to `The petrified perpetrator` quest trigger, it tells about `The Last Giant` that they haven't found yet.
@@ -71,7 +71,7 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 	
 	For multiplayer, this main quest is count as shared progress.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cZs7tfXs-KM" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/cZs7tfXs-KM" allow="autoplay" allowfullscreen></iframe>
 
 - *Flower, please - Leah 2* (side quest)
 	To get `Flower, please` quest, player must reach heart level 2 first with Leah and trigger her heart event 2 cutscene. The side quest will automatically trigger once the cutscene ends. 
@@ -80,7 +80,7 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 
 	For multiplayer, this side quest is count as individual progress.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NF_lp1plCT4" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/NF_lp1plCT4" allow="autoplay" allowfullscreen></iframe>
 
 - *Nina Summer/Winter* (invisible tracking quest)
 	In Year 1, player will get a one-time cutscenes introducing NPC dateable name Nina. These are set up to fire first thing in the morning, before any other cutscene can trigger.
@@ -89,7 +89,7 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 
 	For multiplayer, this invisible tracking quest is count as shared progress.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RjuUaqTUViQ" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/RjuUaqTUViQ" allow="autoplay" allowfullscreen></iframe>
 
 - *Emily looking for 2 chards* (errand - dynamic quest)
 	The system will dynamically spawns errand quest by checking the availability item. If an item is in season, the quest have a chance to fire; if not, it is skipped.
@@ -108,7 +108,7 @@ When I got the task of populating the catchable species for the fishing and catc
 
 Based on the data that I collected, then I determined the capture difficult of each species by configuring the data tables for fishing and the blueprints of insects and ocean critters, which were well-implemented by the programmers, giving me the tools I needed to achieve the design.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1ZB7prOldME" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/1ZB7prOldME" allow="autoplay" allowfullscreen></iframe>
 
 I also designed the bamboo net and insect trap as passive resource-gathering tools to help reducing gameplay repetitive. 
 
