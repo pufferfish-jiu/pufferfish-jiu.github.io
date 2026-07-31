@@ -3,6 +3,12 @@
 // put your custom CSS here!
 
 iframe.pdf {
-  aspect-ratio: unset;
-  height: 1200px;
+  aspect-ratio: 8.5 / 11;
+  width: 100%;
+  height: auto;
+
+  @media (max-width: 600px) {
+    aspect-ratio: unset;
+    height: 70vh;
+  }
 }
