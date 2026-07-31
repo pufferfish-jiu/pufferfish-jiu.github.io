@@ -1,4 +1,4 @@
-[[Adjie Wahyudinata - CV Resume.pdf|Download Resume (PDF)]]
+![[Adjie Wahyudinata - CV Resume.pdf]]
 
 ### Stairway Games
 Work From Anywhere
