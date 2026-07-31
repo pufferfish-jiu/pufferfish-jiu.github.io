@@ -1,3 +1,5 @@
+[[Adjie Wahyudinata - CV Resume.pdf|Download Resume (PDF)]]
+
 ### Stairway Games
 Work From Anywhere
 Full-time (December 2021 - Present)
