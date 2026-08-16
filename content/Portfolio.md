@@ -25,26 +25,31 @@ Even though I was the one who maintaining this feature, it wouldn't have been po
 <iframe width="854" height="480" src="https://www.youtube.com/embed/e0oRWe8RAFQ" allow="autoplay" allowfullscreen></iframe>
 
 - ***Day before harvest festival***
+	
 	Before the festival day, NPC will acknowledge and reveal their excitement for the upcoming harvest festival.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/Ey3s2qzSnKI" allow="autoplay" allowfullscreen></iframe>
 
 - ***Day after tree planting, but player didn't attend***
+	
 	After tree planting festival date has passed but player didn't attend, NPC will express their disappointment about the event cancellation.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/Cb5zw58lUfc" allow="autoplay" allowfullscreen></iframe>
 
 - ***Aaliyah back from space*** 
+	
 	Aaliyah's related family and space enthusiast are expressing their joy about her return from the space.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/xX5XU_DQTQI" allow="autoplay" allowfullscreen></iframe>
 
 - ***Appearance shark outfit***
+	
 	NPC commenting on shark outfit if player wear it.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/t1GKCRFMBBk" allow="autoplay" allowfullscreen></iframe>
 
 - ***Seven days player didn't kiss their spouse***
+	
 	In the 1.3 update, if the player hasn't kissed their spouse in seven days, the spouse will comment on it, and the player won't be able to talk to them for the next two days.
 
 ---
@@ -64,21 +69,25 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/3_RVcfU2aQ0" allow="autoplay" allowfullscreen></iframe>
 
-- *The Last Giant* (main quest)
+- ***The Last Giant* (main quest)**
+
 	To get `The Last Giant` quest, player must complete `The petrified perpetrator` quest. This main quest will automatically trigger once the cutscene tied to `The petrified perpetrator` quest trigger, it tells about `The Last Giant` that they haven't found yet.
-	
+
+
 	Each quest step below are tied to the cutscene, if player accomplished the step they will witness a cutscene telling a tale. 
 	 - Reach the Savannah
 	 - Enter the Cave of Memories
 	 - Gort's memory fragment (0/5)
 		 - There are 5 memory fragment that needs to be found inside Cave of Memories.
 	 - Go to Cave of Memories Lobby
-	
+
+
 	For multiplayer, this main quest is count as shared progress.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/cZs7tfXs-KM" allow="autoplay" allowfullscreen></iframe>
 
-- *Flower, please - Leah 2* (side quest)
+- ***Flower, please - Leah 2* (side quest)**
+
 	To get `Flower, please` quest, player must reach heart level 2 first with Leah and trigger her heart event 2 cutscene. The side quest will automatically trigger once the cutscene ends. 
 	
 	To complete it, bring any 2 flowers to Leah. Once you do, she will say thank you and the quest will be complete.
@@ -87,16 +96,19 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/NF_lp1plCT4" allow="autoplay" allowfullscreen></iframe>
 
-- *Nina Summer/Winter* (invisible tracking quest)
+- ***Nina Summer/Winter* (invisible tracking quest)**
+
 	In Year 1, player will get a one-time cutscenes introducing NPC dateable name Nina. These are set up to fire first thing in the morning, before any other cutscene can trigger.
 	- **Summer 1st** -> Nina arrives at starlet town for the summer. This cutscene officially introduces her, unlocking her character portrait in the UI and replacing her grayed-out silhouette.
 	- **Winter 1st** -> Nina returns to the starlet town permanently after absent during the fall in year 1. This cutscene reveals she is moving to town, for good.
+
 
 	For multiplayer, this invisible tracking quest is count as shared progress.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/RjuUaqTUViQ" allow="autoplay" allowfullscreen></iframe>
 
-- *Emily looking for 2 chards* (errand - dynamic quest)
+- ***Emily looking for 2 chards* (errand - dynamic quest)**
+
 	The system will dynamically spawns errand quest by checking the availability item. If an item is in season, the quest have a chance to fire; if not, it is skipped.
 	- In the video, Emily request for Chard during spring season, which matches the plant's growing season.
 
