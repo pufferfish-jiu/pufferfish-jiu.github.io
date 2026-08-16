@@ -29,7 +29,7 @@ Even though I was the one who maintaining this feature, it wouldn't have been po
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/Ey3s2qzSnKI" allow="autoplay" allowfullscreen></iframe>
 
-- ***Day after tree planting, but didn't attend***
+- ***Day after tree planting, but player didn't attend***
 	After tree planting festival date has passed but player didn't attend, NPC will express their disappointment about the event cancellation.
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/Cb5zw58lUfc" allow="autoplay" allowfullscreen></iframe>
@@ -39,8 +39,13 @@ Even though I was the one who maintaining this feature, it wouldn't have been po
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/xX5XU_DQTQI" allow="autoplay" allowfullscreen></iframe>
 
-- ***Appearance shark costume***
+- ***Appearance shark outfit***
 	NPC commenting on shark outfit if player wear it.
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/t1GKCRFMBBk" allow="autoplay" allowfullscreen></iframe>
+
+- ***Seven days player didn't kiss their spouse***
+	In the 1.3 update, if the player hasn't kissed their spouse in seven days, the spouse will comment on it, and the player won't be able to talk to them for the next two days.
 
 ---
 ###### Quest
