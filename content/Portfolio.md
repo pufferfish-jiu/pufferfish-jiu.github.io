@@ -16,7 +16,7 @@ I'm the game designer of Coral Island. My duty includes:
 
 ![[DD-Banner.png]]
 
-I also contributing for Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
+I'm contributing to Coral Island's dynamic dialogue. Player can witness the specific line of dialogue spoken from NPC if the requirements are met.
 
 My main part are to set up the logics and rules for when this dynamic dialogue should or shouldn't appear, as well as the priority queue for which dynamic dialogue takes precedence if player are able to trigger multiple dynamic dialogue simultaneously. I'm also the one who maintaining the feature and resolving any issues that arise.
 
@@ -119,7 +119,7 @@ As Coral Island expanded into multiplayer, I audited the existing single-player 
 
 ![[FishingCatching-Banner.png]]
 
-Fishing and catching minigame are one of my contribution to Coral Island. Player can obtain fish through fishing, and insects alongside ocean critter through catching minigame. All creature caught by player can be donated to museum, offering for temple, and sold for profit.
+Fishing and catching minigame are also part of my contribution to Coral Island. Player can obtain fish through fishing, and insects alongside ocean critter through catching minigame. All creature caught by player can be donated to museum, offering for temple, and sold for profit.
 
 When I got the task of populating the catchable species for the fishing and catching minigames, I wanted to make sure the spawning for all species was reflected as authentically as possible, matching their real-life behavior so players wouldn't feel it was out of sync with the environment. 
 
