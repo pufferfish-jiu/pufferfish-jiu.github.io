@@ -67,7 +67,7 @@ I also determined the rewards for each quest, such as mail, items, or unlocks, t
 
 As Coral Island expanded into multiplayer, I audited the existing single-player quest systems and redesigned them for multiplayer compatibility. I determined whether each quest's progression should be shared or tracked individually per player, then documented and implemented the logic accordingly.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/3_RVcfU2aQ0" allow="autoplay" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/HnVuVl6I-_A" allow="autoplay" allowfullscreen></iframe>
 
 - ***The Last Giant* (main quest)**
 
