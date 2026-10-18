@@ -1,1 +1,1 @@
-![[Adjie Wahyudinata - CV Resume.pdf#height=1200]]
+![[Adjie Wahyudinata - Resume.pdf#height=1200]]
